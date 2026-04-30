@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hola, soy David Muñoz
 
-<!--
-**dmunoz100/dmunoz100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full Stack con +7 años de experiencia construyendo aplicaciones web, móviles y sistemas empresariales escalables.
 
-Here are some ideas to get you started:
+🚀 Me especializo en el desarrollo de soluciones modernas basadas en React, Node.js/NestJS y .NET, enfocadas en rendimiento, integración de sistemas y experiencia de usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Sobre mí
+🔭 Actualmente trabajando en sistemas empresariales y gubernamentales
+⚙️ Experiencia en ERP, CRM e integración de sistemas complejos
+🔗 He trabajado en integraciones con sistemas críticos (APIs, tiempo real, WebSockets)
+📱 Desarrollo de aplicaciones móviles (Android / Ionic)
+🚀 Enfocado en optimización, escalabilidad y buenas prácticas
+🛠️ Tech Stack
+
+Frontend
+
+React.js
+TypeScript
+Tailwind CSS / Bootstrap
+HTML / CSS / JavaScript
+
+Backend
+
+.NET Core / ASP.NET
+Node.js / NestJS
+APIs REST
+WebSockets
+
+Base de Datos
+
+SQL Server
+MySQL
+
+Mobile
+
+Ionic
+Android (Kotlin / Java)
+
+Herramientas
+
+Git (aprendiendo / en transición desde SVN)
+Firebase
+IIS
+Visual Studio / VS Code / Android Studio / Xcode
