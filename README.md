@@ -4,8 +4,11 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 </p>
 
+
 💻 Desarrollador Full Stack con +7 años de experiencia construyendo aplicaciones web, móviles y sistemas empresariales escalables.
+
 🚀 Especializado en **React, Node.js/NestJS y .NET**, enfocado en rendimiento, integración de sistemas y soluciones de alto impacto.
+
 ---
 ## 🧠 Sobre mí
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
