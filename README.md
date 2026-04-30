@@ -47,7 +47,6 @@
 ## 📫 Contacto
 
 - ✉️ david_munoz_benavides93@hotmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/ (agrega tu perfil)  
 - 🌎 Monterrey, México  
 
 ---
