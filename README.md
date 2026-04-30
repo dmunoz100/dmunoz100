@@ -48,7 +48,7 @@
 
 
 ## 📫 Contacto
-
+- ✉️ davidmo651@gmail.com 
 - ✉️ david_munoz_benavides93@hotmail.com  
 - 🌎 Monterrey, México  
 
