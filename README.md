@@ -43,6 +43,13 @@
 ![Android](https://img.shields.io/badge/-Android-000?&logo=android)
 
 
+## 📈 Actualmente aprendiendo
+
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+
+- Angular
+
+
 ## 📫 Contacto
 
 - ✉️ david_munoz_benavides93@hotmail.com  
